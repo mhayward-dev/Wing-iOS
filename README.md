@@ -1,2 +1,2 @@
 # Wing-iOS
-The iOS Swift app for Wing.
+Placeholder for the iOS Swift app for Wing.
